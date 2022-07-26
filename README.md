@@ -1,7 +1,7 @@
 ### Olá, tudo bem ? Eu sou Guilherme Oliveira Agenor 👋
 
 - 🔭 Foco no Back End
-- 🌱 Aprendendo C#, ASP NET MVC, HTML, CSS, JSS E SQL SERVER
+- 🌱 Aprendendo C#, JAVA, SQL SERVER, ASP.NET MVC, HTML, CSS, JS
 
 <div align="center">
   <a href="https://github.com/GuilhermeOliveiraAgenor">
