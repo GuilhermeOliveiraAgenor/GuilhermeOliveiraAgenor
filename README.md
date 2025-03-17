@@ -1,4 +1,4 @@
-### Olá, tudo bem ? Eu sou Guilherme Oliveira Agenor 👋
+### Hello, how are you ? I am Guilherme Oliveira Agenor 👋
 
 - 🔭 FullStack Developer
 - 🌱 Focus on C#, JAVA, NODE.JS, SQL , .NET, REACT E NEXT.JS
