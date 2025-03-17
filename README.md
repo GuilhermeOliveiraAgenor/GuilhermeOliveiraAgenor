@@ -1,7 +1,7 @@
 ### Olá, tudo bem ? Eu sou Guilherme Oliveira Agenor 👋
 
 - 🔭 FullStack Developer
-- 🌱 Foco C#, JAVA, NODE.JS, SQL , .NET, REACT E NEXT.JS
+- 🌱 Focus on C#, JAVA, NODE.JS, SQL , .NET, REACT E NEXT.JS
 
 <div align="center">
   <a href="https://github.com/GuilhermeOliveiraAgenor">
