@@ -1,7 +1,7 @@
 ### Olá, tudo bem ? Eu sou Guilherme Oliveira Agenor 👋
 
-- 🔭 Foco no Back End
-- 🌱 Aprendendo C#, JAVA, NODE.JS SQL SERVER, ASP.NET MVC, HTML, CSS, JS, REACT E NEXT.JS
+- 🔭 FullStack Developer
+- 🌱 Foco C#, JAVA, NODE.JS, SQL , ASP.NET, REACT E NEXT.JS
 
 <div align="center">
   <a href="https://github.com/GuilhermeOliveiraAgenor">
@@ -12,6 +12,7 @@
   <p> Tecnlogias que utilizo</p>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/nodejs-original.svg">
   <img align="center" alt="Sql" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
